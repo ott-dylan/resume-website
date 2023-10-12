@@ -2,6 +2,8 @@
 
 Welcome to my personal website portfolio! This website showcases my skills, projects, and experiences as a developer.
 
+# How to install
+
 ## Credits
 
 -   Website was built with [React](https://github.com/facebook/react)
