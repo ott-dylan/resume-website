@@ -1,6 +1,6 @@
-# Portfolio
+# Dylan Ott's Personal Website Portfolio
 
-My portfolio website in old-school Windows95 style dylanott
+Welcome to my personal website portfolio! This website showcases my skills, projects, and experiences as a developer.
 
 ## Credits
 
