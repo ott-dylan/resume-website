@@ -70,6 +70,7 @@ function DylanLinks() {
                 <img
                     src={loudounNowPicture}
                     style={{ width: '100%', borderRadius: '16px' }}
+                    alt="Loudoun Now"
                 />
                 <iframe
                     width="100%"
