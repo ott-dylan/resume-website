@@ -1,16 +1,15 @@
 import React from 'react'
+import calvinHobbsImage from '../../assets/calvinhobbs.jpg'
 
 function About({ content }) {
-    const { paragraphs } = content;
+    const { paragraphs } = content
     return (
         <div>
-            <h2>About</h2>
-            {
-                paragraphs.map((p, i) => (
-                    <p key={i}>{p}</p>
-                ))
-            }
-
+            <img src={calvinHobbsImage} style={{ width: '100%' }} />
+            <h2>About Me</h2>
+            {paragraphs.map((p, i) => (
+                <p key={i}>{p}</p>
+            ))}
         </div>
     )
 }
