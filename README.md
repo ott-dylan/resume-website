@@ -4,6 +4,9 @@ Welcome to my personal website portfolio! This website showcases my skills, proj
 
 # How to install
 
+`npm install`
+`npm start`
+
 ## Credits
 
 -   Website was built with [React](https://github.com/facebook/react)
