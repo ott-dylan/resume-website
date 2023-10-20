@@ -23,7 +23,7 @@ export default class DataService {
                 icon: 'notepad_2',
                 content: {
                     resumeLink:
-                        'https://drive.google.com/file/d/1-USPrVCOuwM8_RMnCWtbKxazb8S3dkIG/view?usp=drive_link',
+                        'https://drive.google.com/file/d/1klDE1EM0Xa2je6zfyX6XyddD8Y9mcy3-/view?usp=sharing',
                     workExperience: [
                         {
                             jobTitle: 'Venture Capital Intern',
