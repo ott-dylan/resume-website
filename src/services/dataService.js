@@ -9,7 +9,7 @@ export default class DataService {
                 icon: 'info_bubble',
                 content: {
                     paragraphs: [
-                        "Hi, I'm Dylan Ott, a Computer Science enthusiast, budding entrepreneur, and high school senior from Ashburn, VA. With a firm grounding in IT and Entrepreneurship, I navigate through an enriching educational journey, complemented by a 4.52 GPA and a 1500 SAT score.",
+                        "Hi, I'm Dylan Ott, a Computer Science enthusiast, budding entrepreneur, and high school senior from Ashburn, VA. With a firm grounding in IT and Entrepreneurship, I navigate through an enriching educational journey, complemented by a 4.52 GPA and a 1520 SAT score.",
                         'My entrepreneurial spirit is showcased through founding Nivaro.io and ScholarAI.org, where I blend innovation, education, and technology to foster young minds and streamline academic experiences by leveraging AI and a versatile tech stack involving React.js, Tailwind CSS, and OpenAI.',
                         "As the CTO of Delilah.ai, I've successfully cultivated a platform that personalizes the academic journey for over 50k users, incorporating technologies like React.js and Django, and deploying on cloud platforms like Heroku and AWS, achieving substantial impact and revenue within its inaugural year.",
                         'My technical toolkit includes languages like Python and JavaScript, along with proficiency in frameworks and platforms such as React.js, Node.js, and Django. I find joy in exploring new technologies and utilizing them to drive innovative solutions in the EdTech space.',
@@ -89,13 +89,13 @@ export default class DataService {
                         {
                             credit: 'Academy of Engineering and Technology, Entrepreneurship and Computer Science',
                             place: 'Academies of Loudoun, Virginia, United States',
-                            gpa: '4.52 GPA, 1500 SAT',
+                            gpa: '4.52 GPA, 1520 SAT',
                             period: 'AUG 2020 – JUN 2024',
                         },
                         {
                             credit: 'Advanced Studies Diploma',
                             place: 'Briar Woods High School, Virginia, United States',
-                            gpa: '4.52 GPA, 1500 SAT',
+                            gpa: '4.52 GPA, 1520 SAT',
                             period: 'AUG 2020 – JUN 2024',
                         },
                     ],
