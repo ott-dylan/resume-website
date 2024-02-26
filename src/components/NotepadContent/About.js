@@ -33,7 +33,7 @@ function About() {
                 </a>{' '}
                 and{' '}
                 <a
-                    href="https://delilah.io"
+                    href="https://delilah.ai"
                     target="_blank"
                     rel="noopener noreferrer"
                 >
