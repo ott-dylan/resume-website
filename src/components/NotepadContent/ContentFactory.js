@@ -26,8 +26,6 @@ function ContentFactory({ id, isMobile }) {
             return <Resume content={item.content} />
         case 'news':
             return <News content={item.content} isMobile={isMobile} />
-        case 'contact':
-            return <Contact content={item.content} />
         case 'projects':
             return <Projects content={item.content} />
         default:
