@@ -3,7 +3,6 @@ import DataContext from '../../contexts/dataContext'
 import About from './About'
 import Resume from './Resume'
 import News from './News'
-import Contact from './Contact'
 import Projects from './Projects'
 
 function ContentFactory({ id, isMobile }) {
