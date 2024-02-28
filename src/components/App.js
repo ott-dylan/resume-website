@@ -6,6 +6,8 @@ import DataContext from '../contexts/dataContext'
 import Taskbar from './Taskbar'
 import Desktop from './Desktop'
 
+import '@react95/icons/icons.css'
+
 const dataService = new DataService()
 
 const BodyFontSizeOverride = createGlobalStyle`
